@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kumar Abhishek
 
-I'm a **3rd-year B.Tech student in Electronics and Communication Engineering** at **IIIT Una**, passionate about building intelligent AI systems that solve real-world healthcare and NLP challenges. With a strong foundation in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**, I've been exploring cutting-edge technologies to create impactful data-driven solutions.
+I'm a **Final-year B.Tech student in Electronics and Communication Engineering** at **IIIT Una**, passionate about building intelligent AI systems that solve real-world healthcare and NLP challenges. With a strong foundation in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**, I've been exploring cutting-edge technologies to create impactful data-driven solutions.
 
 Currently, I'm expanding my expertise into **MLOps**, **LangChain**, **RAG (Retrieval-Augmented Generation)**, and **Model Context Protocol (MCP)**, combining my problem-solving mindset with modern frameworks to bring research-driven ideas into practical, scalable AI applications.
 
