@@ -5,7 +5,7 @@ I'm a **Final-year B.Tech student in Electronics and Communication Engineering**
 Currently, I'm expanding my expertise into **MLOps**, **LangChain**, **RAG (Retrieval-Augmented Generation)**, and **Model Context Protocol (MCP)**, combining my problem-solving mindset with modern frameworks to bring research-driven ideas into practical, scalable AI applications.
 
 > 📍 **Location:** Una, India  
-> 📧 **Email:**abhishekkumar.ch2607@gmail.com
+> 📧 **Email:** [abhishekkumar.ch2607@gmail.com]
 > 🔗 **LinkedIn:** [Kumar Abhishek](https://linkedin.com/in/kumar-abhishek-6b5828288)  
 > 💻 **GitHub:** [kumarAbhishek2004](https://github.com/kumarAbhishek2004)
 
